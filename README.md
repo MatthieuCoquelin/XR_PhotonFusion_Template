@@ -1,6 +1,6 @@
 # XR_PhotonFusion_Template
 
-XR MultiplaterTemplate using Fusion Photon and Meta Avatar.
+XR MultiplayerTemplate using Fusion Photon and Meta Avatar.
 
 https://matthieucoquelin.itch.io/xr-photonfusion-template
 
